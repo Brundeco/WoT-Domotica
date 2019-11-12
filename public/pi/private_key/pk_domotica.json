@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "domotica-1e92f",
+  "private_key_id": "d339bbf3a4417471614f666fbd96c29a20411bbd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFLkGZ3aASrezy\n29Xc/SW5ixHbBV+nEapLyx5pfmGAcoHukKB1LBDPLO4jQWOVfB9S6lKWFBwtQ1ke\nHqLt/wMlLdb3xNwuXvi62pdyBz+tCsIOO27h4F3d+2azpzcoWpVlbIufLILIq+dw\nbcKJTmRJ2s0IRjeX5XKCr619SWVDC72y4Xd6O7m3LOREQXUC2BY5ESuVzKWFID+8\nzUTf5Jj3M6AvoidJIAzz0pycOeoZeKkx35csU6JW00Z+0X3Y7SREQEq1yYGIw99K\ndwNmqnmqTkdA2XgKON7OWf3K5AoevN20QtW+oCmHXFV9WdFRvHaYzxhF1S+8cLGg\nrMU8/SQRAgMBAAECggEAYQDVkw19v1LDG+LcfmAnW/U3rokhOn6tSaY+auWar+cl\nVqjd12b7SgCvkraLeDHc8xyFzoFML1RPlkq6Gt12vaakd7XoIAPm133MPXOldsqx\nFvFUJlkLtLYGG2Gq9/ZAQuo4cfEi0fgH3r6Qkp33JoI2ldh9ZwOg5vvoHJer8mQK\nNl1hn0kYzmkHTUZd1PqPTbx0LZeXeGDWOckvYrJ7Jwp5bYgXNj++aTQUic2WkXCk\nFvAKMFomUrRa8O+wZMgM4DJ53gU5c1QxwB0B53PjLdHsqjfYSFNB4MG7FICsJZ1l\nMcVa+5ZbOm/uj7nQDu7JnJeK/9L1oMLtL4o8SRpfpQKBgQDjY/fwvdxVZvzMoeN9\n2/q7uQwLjC1Cua359ppu+LSxrEGPe5SIRGg7XZLH2xwP1bFzBYZdd+a0v+urnDaO\nShvqPJcE9Zai9P3p5A1IKjr/sFfP+Vkz0CP5piSsfUkiKlHNrsgBIym+jP2Rhc3N\nJB/EHT+AjIjEZOqODQKbLxLlVwKBgQDd/UInqZquO4NMyp5aB0R6hUMxwn8BWlHl\nQ5pTpyiNU33/5t3Km4C3ZopsYaBzN3QMuIYYL6OLGbK/+r8Rqk2AYM2VHfjEaval\ns6pG8rx1qs5bK3vlOp4FUpyvNcVFEzzeNhHImiZVoOICUvep0BHf1YWrsMVkgfGu\ndIUXxfi41wKBgQDDZLS6VrtNW4jhYj70eKG0y6bxCUwfKSS5RVGhB+9lOSrA26Vf\njsCuOpMVT0+Gv86Sku3JxW0mZkBhn4M1s7LXDaeLqGj/sFu7rq5HE5rM+cALQy2G\nm1U+gajD24iLZigTARx19bw6NDbz5DFbFK6DO8rEcH5ZnIn89GsH5GRtUwKBgQCH\n2Tak4wv/1/ewBMcHPS9Q80B9sRLcFxPLA6Xrz33njtKqyfOsy6Dnm17WmKACIkto\nhXu6TVz+AQn8pkxLWTb4e0UUHjVgrjymht6LcHyYXaDO9jtpuod9pmKwbm18qhsz\nuU8EviD7gesNlQxu5SArJJYazaDesw7dvfy84bAmHQKBgGgp8VucKEZIZeC4tT88\n0a0hvOdeeeOA2tslnRhmfSXJiV27FdeGs6x364sDW6Sx5dOtODlnA2E5rF3FtRBp\n9wzs5/SXUlm9GwfQaPVYKpCBR6rh7SyZ6cIbdRG84ssrqfDh/ShiUBaXcI0OZQqy\nJQPn11kfxqMBuekhi7AmHAkE\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gnyfc@domotica-1e92f.iam.gserviceaccount.com",
+  "client_id": "112263414141737787536",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gnyfc%40domotica-1e92f.iam.gserviceaccount.com"
+}
