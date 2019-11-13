@@ -10,7 +10,7 @@ renderDevices = () => {
             let devType = doc.data().device_name
             let cta = document.createElement('div')
             let statusIndicator = document.createElement('div')
-            cta.className = 'cta ' + doc.data().led_color
+            cta.className = 'cta'
             if (devType === 'light') {
                 cta.innerHTML = doc.data().device_position
                 cta.id = doc.id
