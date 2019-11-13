@@ -5,6 +5,12 @@ from sense_hat import SenseHat
 sense = SenseHat()
 from time import sleep
 
+cred = credentials.Certificate('private_key/pk_domotica.json')
+firebase_admin.initialize_app(cred)
+
+db = firestore.client()
+docs = db.collection(u'devices').get()
+
 colorBlue = [30, 30, 255]
 colorYellow = [255, 255, 30]
 colorRed = [255, 30, 30]
@@ -12,14 +18,6 @@ colorRed = [255, 30, 30]
 colorDBlue = [0, 0, 50]
 colorDYellow = [50, 50, 0]
 colorDRed = [50, 0, 0]
-
-# Use a service account
-cred = credentials.Certificate('private_key/pk_domotica.json')
-firebase_admin.initialize_app(cred)
-
-db = firestore.client()
-docs = db.collection(u'devices').get()
-
 
 def on_snapshot(doc_snapshot, changes, read_time):    
     for doc in docs:
@@ -54,6 +52,5 @@ def on_snapshot(doc_snapshot, changes, read_time):
 doc_ref = db.collection(u'devices')
 doc_watch = doc_ref.on_snapshot(on_snapshot)
 
-
 while True:
-    sleep(3)
+    sleep(2)
